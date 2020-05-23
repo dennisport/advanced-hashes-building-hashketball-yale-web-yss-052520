@@ -14,7 +14,7 @@ def game_hash
         assists: 12,
         steals: 3,
         blocks: 1,
-        slam dunks 1
+        slam dunks: 1
       }, 
       {
         player_name: "Reggie Evans",
@@ -23,10 +23,11 @@ def game_hash
         points: 12,
         rebounds: 12,
         assists: 12,
-        steals: 3,
-        blocks: 1,
-        slam dunks 1
+        steals: 12,
+        blocks: 12,
+        slam dunks: 7
       }, 
+      
       ]
     }, 
     away: {}
